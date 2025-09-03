@@ -1,6 +1,6 @@
 **Data**
 
-The dataset was collected from [The Open Food Repo](https://www.foodrepo.com), a community-driven open database for barcoded food products. It contains the ingredients and nutritional facts of approximately 385'000 food products from several countries worldwide.
+The dataset was collected from [The Open Food Repo](https://www.foodrepo.org), a community-driven open database for barcoded food products. It contains the ingredients and nutritional facts of approximately 385'000 food products from several countries worldwide.
 
 More specifically, the dataset contains the following information for each food product: id, barcode, ingredients_en, quantity, unit, portion_quantity, portion_unit, hundred_unit, alcohol_by_volume, nutrients, created_at and updated_at.
 <br/><br/>
