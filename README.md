@@ -20,4 +20,4 @@ The tasks carried out in the project are divided into 7 sections:
 
 **Project link**
 
-https://github.com/jelena-rota/data-analysis/blob/main/data-analysis.ipynb
+https://github.com/jelena-rota/applied-data-analysis/blob/main/data-analysis.ipynb
