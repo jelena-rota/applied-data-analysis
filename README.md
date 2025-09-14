@@ -13,7 +13,7 @@ The tasks carried out in the project are divided into 7 sections:
 - Data cleaning
 - Preliminary exploratory data analysis
 - Text data
-- Exploratory data analysis: Time-series data
+- Exploratory data analysis: time-series data
 - Correlation analysis
 - Advanced exploratory data analysis
 <br/><br/>
