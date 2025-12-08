@@ -1,5 +1,5 @@
-## Applied data analysis project
-
+## Applied Data Analysis Project
+<br/><br/>
 **Data**
 
 The project dataset was collected from [The Open Food Repo](https://www.foodrepo.org), a community-driven open database for barcoded food products. It contains the ingredients and nutritional facts of approximately 385'000 food products from several countries worldwide.
