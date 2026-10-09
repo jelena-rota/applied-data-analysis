@@ -20,6 +20,6 @@ The tasks carried out in the project are divided into 7 sections:
 - Advanced exploratory data analysis
 <br/><br/>
 
-**Python code and results**
+**Python code, results and visualisations**
 
 https://github.com/jelena-rota/applied-data-analysis/blob/main/applied-data-analysis.ipynb
